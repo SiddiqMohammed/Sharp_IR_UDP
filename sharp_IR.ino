@@ -5,7 +5,6 @@
 
 #include <Wire.h>
 #include <SPI.h>
-#include <Adafruit_PN532.h>
 
 //--------------------PIN DECLARATION-----------------//
 //const byte sensorPin[] = {A1, A3, A4, A5};
